@@ -1,3 +1,5 @@
 prices:
-  1: 5
-  "2:1": 2
+  "stone": 10
+  "grass": 20
+  "apple": 50
+  "iron_pickaxe": 100
