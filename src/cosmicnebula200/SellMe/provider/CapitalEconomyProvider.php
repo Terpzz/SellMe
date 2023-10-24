@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace cosmicnebula200\SellMe\provider;
 
 use cosmicnebula200\SellMe\SellMe;
