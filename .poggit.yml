@@ -11,7 +11,6 @@ projects:
     libs:
       - src: CortexPE/Commando/Commando
         version:  ^3.0.0
-        branch: PM4
       - src: muqsit/simplepackethandler/SimplePacketHandler
         version: ^0.1.2
       - src: Vecnavium/FormsUI/FormsUI
