@@ -63,3 +63,7 @@ SubCommand | Description                                                        
 `Check` | Checks the amount that you can receive after using the sell command | sellme.command.sell.check | c |
 `Add` | Adds the item in hand to the list of current prices | sellme.command.sell.add | |
 `Overwrite` | Overwrites the item price in the list of current prices | sellme.command.sell.overwrite ||
+
+# Terpz710
+
+Continued by ^
